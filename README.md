@@ -1,1 +1,1 @@
-Project for the exam of Deep Learning at UNIBO Msc in Artificial Intelligence
+Project for the Deep Learning exam, part of the MSc in Artificial Intelligence at the University of Bologna.
